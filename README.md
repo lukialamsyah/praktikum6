@@ -154,3 +154,4 @@ main(){
 ![ss2](https://raw.githubusercontent.com/Amirul29/praktikum6/master/latihan2/22.png)
 ![flow](# praktikum6
 # praktikum6
+# praktikum6
